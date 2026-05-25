@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Marcosrzd
-- 👀 I’m interested in TOTVS Protheus and IONIC Framework
-- 🌱 I’m currently learning about REACT and IONIC
-- 💞️ I’m looking to collaborate on ???
+- 👀 I have been an Analyst/Developer in TOTVS Protheus for 25 years. Development in IONIC with integration to TOTVS Protheus
+- 🌱 I’m currently learning about REACT, IONIC, AI Agents and MCP 
 - 📫 How to reach me consultormarcosr@gmail.com
 
 <!---
